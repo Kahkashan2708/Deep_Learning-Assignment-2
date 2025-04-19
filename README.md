@@ -1,6 +1,6 @@
 # Deep_Learning-Assignment-2
 Implementation of Convolutional Neural Network on inauralist Dataset which has Ten Classes
-
+The Wanbd Report of Project is: https://wandb.ai/ma23c014-indian-institute-of-technology-madras/Convolutional_NN/reports/DA6401-Assignment-2-Convolutional-Neural-Network--VmlldzoxMjM2ODQwNw
 Assignment 2: Part A: Training CNN from scratch
 In this project i have build a small CNN model consisting of 5 convolution layers. Each convolution layer is followed by an activation and a max-pooling layer.After 5 such conv-activation-maxpool blocks, i have one dense layer followed by the output layer containing 10 neurons(1 for each classes)
 The code is flexible such that the number of filters, size of filters, and activation function of the convolution layers and dense layers can be changed.
